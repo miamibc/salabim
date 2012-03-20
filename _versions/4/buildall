@@ -1,0 +1,3 @@
+php build.php 1
+php build.php 2
+php build.php 0
